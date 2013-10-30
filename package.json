@@ -2,13 +2,13 @@
   "name": "apac",
   "description": "Amazon Product Advertising API Client for Node",
   "version": "0.0.13",
-  "author": "Dustin McQuay <dmcquay@gmail.com>",
+  "author": "Dustin McQuay <HiDAl@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "git://github.com/dmcquay/node-apac.git"
+    "url": "git://github.com/HiDAl/node-apac.git"
   },
   "bugs": {
-    "url": "http://github.com/dmcquay/node-apac/issues"
+    "url": "http://github.com/HiDAl/node-apac/issues"
   },
   "directories": {
     "lib": "./lib/"
